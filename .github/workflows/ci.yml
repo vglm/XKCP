@@ -3,7 +3,6 @@ name: XKCP CI
 # Run this workflow every time a new commit pushed to your repository
 on: push
 
-
 jobs:
   permutations_different_low_level_implementations:
     runs-on: ubuntu-latest
